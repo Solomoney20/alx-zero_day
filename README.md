@@ -1,2 +1,2 @@
 My first readme
-updsted readme for colaboration 
+updated readme for colaboration 
